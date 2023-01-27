@@ -30,17 +30,17 @@
 
 World is so much populated. 2 out of 10 people are not receiving good medical assistance. 1 out of 10 people are dying because of improper treatment in emergency situations. The only solution to all these problems is **Amigo**.
 
-### How can technology help?
+### The Technology
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+The Health Bot technology is a cloud platform that empowers developers in Healthcare organizations to build and deploy their compliant, AI-powered virtual health assistants. Azure platform is auto scalable,flexible and reliable. These combination give rise to new health era.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Our idea is to provide 24/7 health assistance services to any number of people at any time. Azure platform and Health bot services make this possible.
 
 ## Demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://drive.google.com/file/d/1Xe6acV1bXLIXfasRopKMdDgprsJdirPg/view?usp=share_link)
 
 ## The architecture
 
