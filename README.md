@@ -40,7 +40,8 @@ Our idea is to provide 24/7 health assistance services to any number of people a
 
 ## Demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://drive.google.com/file/d/1Xe6acV1bXLIXfasRopKMdDgprsJdirPg/view?usp=share_link)
+[![Watch the video](<img width="960" alt="image" src="https://user-images.githubusercontent.com/72596196/215090647-ee40bb08-e33d-431b-acb6-d893edc17c2c.png">
+)](https://drive.google.com/file/d/1Xe6acV1bXLIXfasRopKMdDgprsJdirPg/view?usp=share_link)
 
 ## The architecture
 
