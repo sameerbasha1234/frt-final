@@ -26,9 +26,9 @@
 
 ## Short description
 
-### What's the problem?
+### The problem
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+World is so much populated. 2 out of 10 people are not receiving good medical assistance. 1 out of 10 people are dying because of improper treatment in emergency situations. The only solution to all these problems is **Amigo**.
 
 ### How can technology help?
 
